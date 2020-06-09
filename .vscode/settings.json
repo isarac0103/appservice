@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a4d71d70-f35a-4437-acb3-141016625f4e/resourceGroups/myResourceGroup/providers/Microsoft.Web/sites/nextpixelservice",
+    "appService.deploySubpath": "."
+}
